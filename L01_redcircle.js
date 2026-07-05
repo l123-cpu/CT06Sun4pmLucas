@@ -5,10 +5,10 @@ function setup(){
 
 function draw(){
     fill(67, 167, 69);
-    ellipse(300,200,200,200);
+    ellipse(100,200,200,200);
   
     fill(255, 255, 0);
-    ellipse(300,200,200,200);
+    ellipse(200,200,200,200);
     
     fill(255, 0, 0);
     ellipse(300,200,200,200);
