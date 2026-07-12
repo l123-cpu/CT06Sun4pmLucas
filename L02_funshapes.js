@@ -4,8 +4,8 @@ background(220);}
 function draw() {
   ellipse(200,200,600,200);
   // Challenge 1: An eye using ellipse() function
-  ellipse(200,200,200,)
-  ellipse
+  ellipse(200,200,200,50);
+  ellipse()
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
