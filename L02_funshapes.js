@@ -7,7 +7,7 @@ function draw() {
   ellipse(200,200,100,200);
   ellipse(200,200,100,30);
   // Challenge 2: A face using circle() function
-  circle(200,500,)
+  circle(200,500,100,100)
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
