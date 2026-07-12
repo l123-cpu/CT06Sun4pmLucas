@@ -5,7 +5,7 @@ function draw() {
   ellipse(200,400,100,100)
   // Challenge 1: An eye using ellipse() function
   ellipse(50,200,100,100)
-  ellipse(20,50,100,100)
+  ellipse
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
