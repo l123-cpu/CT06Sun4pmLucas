@@ -7,9 +7,9 @@ function draw() {
   ellipse(200,200,100,200);
   ellipse(200,200,100,30);
   // Challenge 2: A face using circle() function
-  circle(200,80,100,100);
-  // Challenge 3: A house using rect() function
   circle(400,80,100,100);
+  // Challenge 3: A house using rect() function
+  circle(200,80,100,100);
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
