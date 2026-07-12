@@ -2,7 +2,7 @@ function setup(){
  createCanvas(1200,600);
 background(220);}
 function draw() {
-  ellipse()
+  ellipse(200,200,)
   // Challenge 1: An eye using ellipse() function
   ellipse
   ellipse
