@@ -12,7 +12,7 @@ function draw() {
   //circle(525,200,100,100)
   // Task 1: Colour Gradient
     for(let i=0; i<5; i++)
-      
+      FileList()
       circle(50,200,40);
 
   // Task 2: Colour Loop
