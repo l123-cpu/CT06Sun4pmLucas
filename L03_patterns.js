@@ -18,7 +18,7 @@ function draw() {
   // Task 2: Colour Loop
    fill(colourvalue)
    circle(100,100,100)
-   colourvalue +=25
+   colourvalue 
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
