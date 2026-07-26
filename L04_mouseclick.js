@@ -10,3 +10,6 @@ function draw(){
    circle (300,200,200)
    fill(random(255), random(255), random(255))
    rect(10,20,20,20)}
+function mousePressed(){
+    
+}
