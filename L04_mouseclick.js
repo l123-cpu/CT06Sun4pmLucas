@@ -8,5 +8,5 @@ function setup(){
 function draw(){
    fill(sc)
    circle (300,200,200)
-   fill(random)
+   fill(random(255), random(255))
 }
