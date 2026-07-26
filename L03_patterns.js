@@ -16,9 +16,16 @@ function draw() {
      //circle(50+i*50,200,40);
    // }
   // Task 2: Colour Loop
-   fill(colourvalue)
+  let s=50 
+  fill(colourvalue)
    circle(100,100,100)
-   colourvalue 
+   for let colourvalue=0; colourvalue<5;i++){
+    if(colourvalue%2==0){
+      fill(0);
+
+    }else{
+      fill(255)}
+      circle(s+colourvalue*s,200,40)
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
