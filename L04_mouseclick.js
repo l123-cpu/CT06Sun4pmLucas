@@ -11,5 +11,5 @@ function draw(){
 
 function mousePressed(){
     sc=colour(random(255), random(255), random(255))
-    
+    FileList(sc)
 }
