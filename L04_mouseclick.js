@@ -6,9 +6,10 @@ function setup(){
 
 }
 function draw(){
-
+    circle(200,200,200)
 }
 
 function mousePressed(){
     sc=colour(random(255), random(255), random(255))
+    
 }
