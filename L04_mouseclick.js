@@ -1,5 +1,6 @@
 // write your codes here
 let sc= "blue";
 function setup(){
-createCanvas
+createCanvas(600,400)
+background
 }
