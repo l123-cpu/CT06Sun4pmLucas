@@ -11,5 +11,5 @@ function draw(){
    
    rect(10,20,20,20)}
 function mousePressed(){
-    sc=colour(random(255), ranodm(255), ranodm(255))
+    sc=colour(random(255), random(255), random(255))
 }
