@@ -5,7 +5,9 @@ function setup(){
     background(220);
 
 }
-
+function draw(){
+    
+}
 
 function mousePressed(){
     sc=colour(random(255), random(255), random(255))
