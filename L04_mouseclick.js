@@ -6,5 +6,5 @@ background(220);
 
 }
 function draw(){
- 
+   fill(shape)
 }
