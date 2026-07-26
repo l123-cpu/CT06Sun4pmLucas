@@ -9,5 +9,4 @@ function draw(){
    fill(sc)
    circle (300,200,200)
    fill(random(255), random(255), random(255))
-   rect()
-}
+   rect(10,20,20,20)}
