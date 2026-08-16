@@ -1,1 +1,34 @@
-// write your codes here
+let size=5;
+let colours;
+function setup(){
+    createCanvas(600,400);
+    background(220);
+}
+function mousePressed(){
+    colours=(random(255),random(255),random(255));
+    size=5;
+}
+function mouseDragged(){
+    fill(colours);
+    circle(mouseX,mouseY,size);
+
+    size +=0.5;
+}
+
+function keyPressed(){
+    let numCircles = floor(random(5,21))
+    for(let i =0; i < numcircles;++i){
+        let x -random(width)
+        let y = random(height)
+        let size= random(5,40)
+        fill(random(255), random=(255), random (255))
+    }
+}
+function keyReleased(){
+    background(220);
+}
+function draw(){
+    if(key==='c' || key==='C'){
+        circle(100,80,80)
+    }
+}
