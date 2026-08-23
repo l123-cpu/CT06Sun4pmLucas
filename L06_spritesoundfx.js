@@ -21,5 +21,5 @@ function KeyPressed(){
     }
 }
 function draw(){
-    
+    background()
 }
