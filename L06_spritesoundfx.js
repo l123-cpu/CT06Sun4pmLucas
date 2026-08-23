@@ -20,3 +20,6 @@ function KeyPressed(){
         soundEffect.play()
     }
 }
+function draw(){
+    
+}
