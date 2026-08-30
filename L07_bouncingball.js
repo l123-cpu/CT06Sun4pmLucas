@@ -1,5 +1,5 @@
 function setup(){
-   n
+   noStroke();
     createCanvas(600,400)
     circle(300,200)
 
