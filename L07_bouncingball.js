@@ -1,3 +1,5 @@
+const { startTransition } = require("react");
+
 let x=200;
 let r=100;
 let g=100;
@@ -17,7 +19,7 @@ function draw(){
 text("lucas", 0, 200)
 text("14", 50 ,100)
 
-loadSound()
+loadSound(star)
 text(favfood) 
 }
 
