@@ -9,5 +9,6 @@ function setup(){
 
 function draw(){
     background(220);
-    FileList(r,g,b)
+    FileList(r,g,b);
+    
 }
