@@ -15,4 +15,4 @@ function draw(){
 }
 
 textsize(32)
-text("hi")
+text("hi", 0, 200)
