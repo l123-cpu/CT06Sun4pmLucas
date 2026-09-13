@@ -13,3 +13,5 @@ function draw(){
     rect(x,200,40)
     x+=speed 
 }
+
+text
