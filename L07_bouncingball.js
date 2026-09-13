@@ -14,4 +14,4 @@ function draw(){
     x+=speed 
 }
 
-text
+textsize(32)
