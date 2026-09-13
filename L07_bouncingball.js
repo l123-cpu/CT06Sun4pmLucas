@@ -19,3 +19,4 @@ text("lucas", 0, 200)
 text("14", 50 ,100)
 
 let favfood=["A","B"]
+text()
