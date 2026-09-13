@@ -17,7 +17,7 @@ function draw(){
 text("lucas", 0, 200)
 text("14", 50 ,100)
 
-
-text() 
+loadSound()
+text(favfood) 
 }
 
