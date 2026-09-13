@@ -19,7 +19,7 @@ function draw(){
 text("lucas", 0, 200)
 text("14", 50 ,100)
 
-loadSound('assets/star_wars_theme')
+loadSound('assets/star_wars_theme_8_bit.mp3')
 text(favfood) 
 }
 
