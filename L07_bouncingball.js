@@ -11,12 +11,12 @@ function draw(){
     background(220);
     fill(r,g,b);
     rect(x,200,40)
-    x+=speed 
-}
-
-textsize(32)
+    x+=speed
+    textsize(32)
 text("lucas", 0, 200)
 text("14", 50 ,100)
 
 let favfood=["A","B"]
-text()
+text() 
+}
+
