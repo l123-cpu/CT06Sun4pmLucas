@@ -16,4 +16,4 @@ function draw(){
 
 textsize(32)
 text("lucas", 0, 200)
-text("14" )
+text("14", 50 ,100)
