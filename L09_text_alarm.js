@@ -6,5 +6,5 @@ function setup(){
     background(220);
     fill(0)
     textSize(32);
-    text("vounce")
+    text("vounce",x,350)
 }
