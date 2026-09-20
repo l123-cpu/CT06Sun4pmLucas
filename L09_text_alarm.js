@@ -3,7 +3,7 @@ let x=200;
 let r=0;
 let g=0;
 let b=0;
-
+let alarminterval
 let interval;
 function preload(){
     soundEffect=loadSound('assets/bossaNova.mp3');
