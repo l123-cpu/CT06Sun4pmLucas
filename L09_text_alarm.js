@@ -8,3 +8,6 @@ function setup(){
     createCanvas(600,400)
     textalign(CENTRE,CENTRE)
 }
+function draw(){
+    
+}
