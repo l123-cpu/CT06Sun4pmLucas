@@ -5,10 +5,10 @@ function preload(){
 }
 
 function setup(){
-    createCanvas(600,400)
-    textalign(CENTRE,CENTRE)
+    createCanvas(600,400);
+    textalign(CENTRE,CENTRE);
 }
 function draw(){
-    background(220)
-    textSize=32
+    background(220);
+    textSize=32;
 }
