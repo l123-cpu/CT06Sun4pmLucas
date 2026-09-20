@@ -6,5 +6,7 @@ function setup(){
     background(220);
     fill(0)
     textSize(32);
-    text("vounce",x,350)
+    text("vounce",x,350);
+    x+=speed
+    
 }
