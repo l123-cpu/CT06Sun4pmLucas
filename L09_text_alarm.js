@@ -1,6 +1,8 @@
 let countdown=5;
 let x=200;
 let r=0;
+let g=0;
+let b=0;
 
 let interval;
 function preload(){
