@@ -1,7 +1,7 @@
 let countdown=5;
 let interval;
 function preload(){
-    soundEffect=loadSound('assets/pop.mp3');
+    soundEffect=loadSound('assets/bossaNova.mp3');
 }
 
 function setup(){
