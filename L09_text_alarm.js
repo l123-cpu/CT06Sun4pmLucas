@@ -9,5 +9,6 @@ function setup(){
     textalign(CENTRE,CENTRE)
 }
 function draw(){
+    background(220)
     
 }
