@@ -1,4 +1,5 @@
 let countdown=5;
+let x=200
 let interval;
 function preload(){
     soundEffect=loadSound('assets/bossaNova.mp3');
