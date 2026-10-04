@@ -8,7 +8,7 @@ let advInput;
 let plcInput;
 function setup(){
     createCanvas(700,800)
-    textInput=createInput();
+    nounInput=createInput();
     textInput.position(width/2,100);
     textInput2=createInput();
     textInput2.position(width/2,150);
