@@ -57,9 +57,7 @@ function draw(){
     text("enter a place", width/2-10, 310);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    fill("red")
-    textAlign(CENTER,CENTER)
-    text(storyText, width/2-10,450)
+    
 }
 function updateText(){
     console.log("noun="+ textInput.value())
@@ -67,4 +65,7 @@ function updateText(){
     console.log("adj="+ textInput3.value())
     console.log("adv="+ textInput4.value())
     console.log("plc="+ textInput5.value())
+    fill("red")
+    textAlign(CENTER,CENTER)
+    text(storyText, width/2-10,450)
 }
