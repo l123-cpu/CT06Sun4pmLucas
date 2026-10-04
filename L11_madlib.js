@@ -9,7 +9,7 @@ let plcInput;
 function setup(){
     createCanvas(700,800)
     nounInput=createInput();
-    textInput.position(width/2,100);
+    nounInput.position(width/2,100);
     verbInput=createInput();
     textInput2.position(width/2,150);
     textInput3=createInput();
