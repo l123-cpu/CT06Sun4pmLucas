@@ -1,4 +1,4 @@
-let textInput;
+let nounInput;
 let button;
 let storyText="";
 let storyTemp;
@@ -32,7 +32,7 @@ function setup(){
     storyText = storyText.replace("{verb}", verbInput.value())
     storyText = storyText.replace("{adv}", advInput.value())
     storyText = storyText.replace("{adj}", adjInput.value())
-    storyText = storyText.replace("{plc}", plcInput)
+    storyText = storyText.replace("{plc}", plcInput.value())
 
 
 }
