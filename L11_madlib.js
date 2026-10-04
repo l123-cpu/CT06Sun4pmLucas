@@ -2,7 +2,9 @@ let textinput;
 let button;
 let storyText;
 let storyTemp;
-let verbInput
+let verbInput;
+let adjInput;
+let plcInput
 
 function setup(){
     createCanvas(700,800)
