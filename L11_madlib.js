@@ -18,5 +18,5 @@ function draw(){
     
 }
 function updateText(){
-    console.log("Hello,"+ textINput)
+    console.log("Hello,"+ textInput.value())
 }
