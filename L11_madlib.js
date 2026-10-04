@@ -43,3 +43,6 @@ function updateText(){
     console.log("adv="+ textInput4.value())
     console.log("plc="+ textInput5.value())
 }
+function draw(){
+    
+}
