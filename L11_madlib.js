@@ -2,7 +2,7 @@ let nounInput;
 let button;
 let storyText="";
 let storyTemp;
-let textInput2;
+let verbInput;
 let textInput3;
 let textInput4;
 let textInput5;
