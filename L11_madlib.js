@@ -67,6 +67,6 @@ function updateText(){
     console.log("verb="+ verbInput.value());
     console.log("adj="+ adjInput.value());
     console.log("adv="+ advInput.value());
-    console.log("plc="+ textInput.value());
+    console.log("plc="+ plcInput.value());
     
 }
