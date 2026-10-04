@@ -17,3 +17,6 @@ function draw(){
     text("enter something(nothing will happen)", width/2-15, 110);
     
 }
+function updateText(){
+    
+}
