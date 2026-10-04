@@ -34,7 +34,7 @@ function setup(){
     storyText = storyText.replace("{adj}", "oh so joyful")
     storyText = storyText.replace("{plc}", "holocaust museum")
 
-    noun
+    nounInput=createInput
 }
 
 function draw(){
