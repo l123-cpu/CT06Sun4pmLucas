@@ -20,7 +20,7 @@ function draw(){
     text("enter a noun", width/2-10, 160);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter a noun", width/2-10, 200);
+    text("enter a noun", width/2-10, 210);
 }
 function updateText(){
     console.log("Hello,"+ textInput.value())
