@@ -4,9 +4,8 @@ let storyText="";
 let storyTemp;
 let textInput2;
 let textInput3;
-let textInput3;
-let textInput1;
-let textInput1;
+let textInput4;
+let textInput5;
 function setup(){
     createCanvas(700,800)
     textInput=createInput();
