@@ -43,8 +43,3 @@ function updateText(){
     console.log("adv="+ textInput4.value())
     console.log("plc="+ textInput5.value())
 }
-function draw(){
-    textSize(16);
-    textAlign(RIGHT,CENTER);
-    text("TextInput", width/2-10, 450);
-}
