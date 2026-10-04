@@ -25,7 +25,7 @@ function draw(){
     text("enter a noun", width/2-10, 110);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter a noun", width/2-10, 160);
+    text("enter a verb", width/2-10, 160);
     textSize(16);
     textAlign(RIGHT,CENTER);
     text("enter a noun", width/2-10, 210);
