@@ -32,7 +32,7 @@ function setup(){
     storyText = storyText.replace("{verb}", textInput2)
     storyText = storyText.replace("{adv}", textInput3)
     storyText = storyText.replace("{adj}", textInput4)
-    storyText = storyText.replace("{plc}", "holocaust museum")
+    storyText = storyText.replace("{plc}", textInput5)
 
     nounInput=createInput
 }
