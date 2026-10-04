@@ -49,7 +49,7 @@ function draw(){
     textSize(16);
     textAlign(RIGHT,CENTER);
     fill("red")
-    text(storyText, textwidth/2-10,450)
+    text(storyText, width/2-10,450)
 }
 function updateText(){
     console.log("noun="+ textInput.value())
