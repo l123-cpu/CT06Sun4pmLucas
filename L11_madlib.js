@@ -11,8 +11,8 @@ function setup(){
 
 function draw(){
     background("silver")
-    textSize(20);
+    textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter something", width/2-15, 110);
+    text("enter something(nothing will happen)", width/2-15, 110);
     
 }
