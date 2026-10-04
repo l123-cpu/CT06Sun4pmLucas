@@ -15,8 +15,8 @@ function setup(){
     advInput=createInput();
     advInput.position(width/2,200);
     adjInput=createInput();
-    textInput4.position(width/2,250);
-    textInput5=createInput();
+    adjInput.position(width/2,250);
+    plcInput=createInput();
     textInput5.position(width/2,300);
     button=createButton("Click Here");
     button.position(width/2,400);
