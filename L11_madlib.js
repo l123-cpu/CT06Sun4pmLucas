@@ -59,7 +59,7 @@ function draw(){
     textAlign(RIGHT,CENTER);
     fill("red");
     textAlign(CENTER,CENTER)
-    text(storyText, width/2,450)
+    text(storyText, width/2,height/2)
     
 }
 function updateText(){
