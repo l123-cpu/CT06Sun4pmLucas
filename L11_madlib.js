@@ -60,12 +60,12 @@ function draw(){
     
 }
 function updateText(){
-    console.log("noun="+ textInput.value())
-    console.log("verb="+ textInput2.value())
-    console.log("adj="+ textInput3.value())
-    console.log("adv="+ textInput4.value())
-    console.log("plc="+ textInput5.value())
-    fill("red")
+    console.log("noun="+ textInput.value());
+    console.log("verb="+ textInput2.value());
+    console.log("adj="+ textInput3.value());
+    console.log("adv="+ textInput4.value());
+    console.log("plc="+ textInput5.value());
+    fill("red");
     textAlign(CENTER,CENTER)
     text(storyText, width/2-10,450)
 }
