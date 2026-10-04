@@ -5,6 +5,7 @@ let storyTemp;
 let verbInput;
 let adjInput;
 let plcInput;
+let advInput;
 let 
 
 function setup(){
