@@ -33,6 +33,8 @@ function setup(){
     storyText = storyText.replace("{adv}", "exctiedly")
     storyText = storyText.replace("{adj}", "oh so joyful")
     storyText = storyText.replace("{plc}", "holocaust museum")
+
+    noun
 }
 
 function draw(){
