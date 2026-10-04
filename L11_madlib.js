@@ -4,13 +4,7 @@ let button;
 function setup(){
     createCanvas(700,800)
     textInput=createInput();
-    textInput.position(width/2,100);
-    button=createButton("Click Here");
-    button.position(width/2,135);
-    button.mousePressed(updateText);
-
-    textInput=createInput1();
-    textInput.position(width/2,100);
+    textInput.position(width/2,300);
     button=createButton("Click Here");
     button.position(width/2,135);
     button.mousePressed(updateText);
