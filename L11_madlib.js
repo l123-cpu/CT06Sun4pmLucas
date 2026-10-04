@@ -34,7 +34,7 @@ function setup(){
     storyText = storyText.replace("{adj}", textInput4)
     storyText = storyText.replace("{plc}", textInput5)
 
-    nounInput=createInput
+
 }
 
 function draw(){
@@ -58,6 +58,7 @@ function draw(){
     textSize(16);
     textAlign(RIGHT,CENTER);
     
+    
 }
 function updateText(){
     console.log("noun="+ textInput.value());
@@ -65,7 +66,5 @@ function updateText(){
     console.log("adj="+ textInput3.value());
     console.log("adv="+ textInput4.value());
     console.log("plc="+ textInput5.value());
-    fill("red");
-    textAlign(CENTER,CENTER)
-    text(storyText, width/2-10,450)
+    
 }
