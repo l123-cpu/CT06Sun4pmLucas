@@ -25,6 +25,8 @@ function setup(){
     button.mousePressed(updateText);
      storyTemp=[
         "The {adj} {noun} decided to {verb} {adv} down at {plc}"
+        ,"Why did the {adj} {noun} {verb} {adv} at the {plc}"
+        ,
     ];
     storyText = random(storyTemp);
    
