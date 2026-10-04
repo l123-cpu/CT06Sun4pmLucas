@@ -28,6 +28,8 @@ function setup(){
     storyTemp=[
         "The {adj} {noun} decided to {verb}{adv} down at{plc}"
     ];
+    storyText = storyText.replace("{noun}", "dog");
+    storyText = storyText.replace("{noun}", "dog")
 }
 
 function draw(){
