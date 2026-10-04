@@ -7,7 +7,7 @@ function setup(){
     textInput.position(width/2,100);
     button=createButton("Click Here(for nothing)");
     button.position(width/2,135);
-    button.mousePressed(updateText)
+    button.mousePressed(updateText);
 }
 
 function draw(){
