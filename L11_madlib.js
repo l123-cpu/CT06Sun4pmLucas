@@ -30,7 +30,7 @@ function setup(){
     ];
     storyText = random(storyTemp);
    
-    storyText = storyText.replace("{noun}", "dog");
+    storyText = storyText.replace("{noun}", textInput);
     storyText = storyText.replace("{verb}", "jump")
     storyText = storyText.replace("{adv}", "exctiedly")
     storyText = storyText.replace("{adj}", "oh so joyful")
