@@ -1,4 +1,4 @@
-
+let textinput
 function setup(){
     createCanvas(700,800)
 }
