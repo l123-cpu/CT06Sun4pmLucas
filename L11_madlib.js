@@ -10,8 +10,9 @@ function setup(){
 }
 
 function draw(){
+    background("silver")
     textSize(24);
     textAlign(RIGHT,CENTRE);
-    text("enter name", width/2-15, 110),
-    background("silver")
+    text("enter name", width/2-15, 110);
+    
 }
