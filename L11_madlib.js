@@ -3,7 +3,10 @@ let button;
 let storyText="";
 let storyTemp;
 let textInput1;
-
+let textInput1;
+let textInput1;
+let textInput1;
+let textInput1;
 function setup(){
     createCanvas(700,800)
     textInput=createInput();
