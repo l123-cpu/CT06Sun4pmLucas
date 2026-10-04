@@ -51,5 +51,5 @@ function updateText(){
     console.log("adj="+ textInput3.value())
     console.log("adv="+ textInput4.value())
     console.log("plc="+ textInput5.value())
-    text((textInput.value()), width/2-10,450)
+    text("thats"+(textInput.value()), width/2-10,450)
 }
