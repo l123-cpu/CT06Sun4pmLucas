@@ -37,7 +37,7 @@ function draw(){
     text("enter a place", width/2-10, 310);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    print(textInput.value())
+    text(print(textInput.value()), width/2-10,450)
 }
 function updateText(){
     console.log("noun="+ textInput.value())
