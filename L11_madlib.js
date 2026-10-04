@@ -24,7 +24,7 @@ function setup(){
     button.position(width/2,400);
     button.mousePressed(updateText);
 
-    lry
+    let temp=random(story)
     storyTemp=[
         "The {adj} {noun} decided to {verb}{adv} down at{plc}"
     ];
