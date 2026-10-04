@@ -14,7 +14,7 @@ function draw(){
     background("silver")
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter something", width/2-10, 110);
+    text("enter a noun", width/2-10, 110);
     
 }
 function updateText(){
