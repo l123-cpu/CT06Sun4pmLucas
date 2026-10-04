@@ -32,7 +32,7 @@ function setup(){
     storyText = storyText.replace("{verb}", verbInput)
     storyText = storyText.replace("{adv}", advInput)
     storyText = storyText.replace("{adj}", adjInput)
-    storyText = storyText.replace("{plc}", plc)
+    storyText = storyText.replace("{plc}", plcInput)
 
 
 }
