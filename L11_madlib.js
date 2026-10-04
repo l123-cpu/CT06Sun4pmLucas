@@ -2,6 +2,7 @@ let textinput;
 let button;
 let storyText;
 let storyTemp;
+let verbInput
 
 function setup(){
     createCanvas(700,800)
