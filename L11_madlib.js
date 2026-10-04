@@ -19,7 +19,9 @@ function setup(){
     button.position(width/2,400);
     button.mousePressed(updateText);
 
-    storyTemp{}
+    storyTemp[
+        ""
+    ]
 }
 
 function draw(){
