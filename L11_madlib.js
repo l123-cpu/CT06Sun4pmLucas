@@ -26,7 +26,7 @@ function setup(){
      storyTemp=[
         "The {adj} {noun} decided to {verb} {adv} down at {plc}"
         ,"Why did the {adj} {noun} {verb} {adv} at the {plc}"
-        ,"Look! The {adj} {noun} li"
+        ,"Look! The {adj} {noun} likes to {verb} "
     ];
     storyText = random(storyTemp);
    
