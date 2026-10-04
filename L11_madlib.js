@@ -20,7 +20,7 @@ function setup(){
     button.mousePressed(updateText);
 
     storyTemp[
-        "The {adj} {noun}"
+        "The {adj} {noun} decided to {verb}{a"
     ]
 }
 
