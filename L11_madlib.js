@@ -4,8 +4,8 @@ let storyText="";
 let storyTemp;
 let verbInput;
 let adjInput;
-let textInput4;
-let textInput5;
+let advInput;
+let plcInput;
 function setup(){
     createCanvas(700,800)
     textInput=createInput();
