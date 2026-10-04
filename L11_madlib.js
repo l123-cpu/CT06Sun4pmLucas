@@ -31,7 +31,7 @@ function setup(){
     storyText = storyText.replace("{noun}", "dog");
     storyText = storyText.replace("{verb}", "jump")
     storyText = storyText.replace("{adv}", "exctiedly")
-    storyText = storyText.replace("{}", "jump")
+    storyText = storyText.replace("{adj}", "jump")
     storyText = storyText.replace("{verb}", "jump")
 }
 
