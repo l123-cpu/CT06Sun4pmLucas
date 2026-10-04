@@ -2,11 +2,7 @@ let textinput;
 let button;
 let storyText="";
 let storyTemp;
-let verbInput;
-let adjInput;
-let plcInput;
-let advInput;
-let nounInput;
+
 
 function setup(){
     createCanvas(700,800)
