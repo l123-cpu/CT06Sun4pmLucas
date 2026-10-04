@@ -35,6 +35,7 @@ function draw(){
     textSize(16);
     textAlign(RIGHT,CENTER);
     text("enter a place", width/2-10, 310);
+    text(Textin)
 }
 function updateText(){
     console.log("noun="+ textInput.value())
