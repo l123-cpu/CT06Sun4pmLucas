@@ -12,7 +12,7 @@ function setup(){
 function draw(){
     background(220);
     textSize(24);
-    textAlign(CENTRE,CENTRE)
+    textAlign(RIGHT,CENTRE)
     text("enter name")
     background("silver")
 }
