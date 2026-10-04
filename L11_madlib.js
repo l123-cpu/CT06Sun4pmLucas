@@ -21,7 +21,7 @@ function setup(){
 
     storyTemp[
         "The {adj} {noun} decided to {verb}{adv} down at{plc}"
-    ]
+    ];
 }
 
 function draw(){
