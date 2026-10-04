@@ -1,6 +1,6 @@
 let textinput;
 let button;
-let storyText;
+let storyText="";
 let storyTemp;
 let verbInput;
 let adjInput;
