@@ -4,7 +4,7 @@ let button;
 function setup(){
     createCanvas(700,800)
     textInput=createInput();
-    textInput
+    textInput.position()
 }
 
 function draw(){
