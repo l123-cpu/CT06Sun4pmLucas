@@ -1,5 +1,6 @@
 let textinput;
 let button;
+let storyText;
 let stroy
 
 function setup(){
