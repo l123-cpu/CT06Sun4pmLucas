@@ -46,5 +46,5 @@ function updateText(){
 function draw(){
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("", width/2-10, 160);
+    text("TextInput", width/2-10, 160);
 }
