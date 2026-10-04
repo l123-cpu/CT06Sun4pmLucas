@@ -9,10 +9,10 @@ function setup(){
     textInput2.position(width/2,150);
     textInput3=createInput();
     textInput3.position(width/2,150);
-    textInput2=createInput();
-    textInput2.position(width/2,150);
-    textInput2=createInput();
-    textInput2.position(width/2,150);
+    textInput4=createInput();
+    textInput4.position(width/2,150);
+    textInput5=createInput();
+    textInput5.position(width/2,150);
     button=createButton("Click Here");
     button.position(width/2,600);
     button.mousePressed(updateText);
