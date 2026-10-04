@@ -14,6 +14,7 @@ function setup(){
     textalign(CENTRE,CENTRE);
 }
 function draw(){
-    background(220);
-    textSize=32;
-}
+    colourB=220
+    colourG=220
+    colourR=220
+    
