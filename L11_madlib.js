@@ -24,7 +24,7 @@ function setup(){
     button.position(width/2,400);
     button.mousePressed(updateText);
      storyTemp=[
-        "The {adj} {noun} decided to {verb}{adv} down at {plc}"
+        "The {adj} {noun} decided to {verb} {adv} down at {plc}"
     ];
     storyText = random(storyTemp);
    
