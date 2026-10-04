@@ -29,7 +29,8 @@ function setup(){
         "The {adj} {noun} decided to {verb}{adv} down at{plc}"
     ];
     storyText = storyText.replace("{noun}", "dog");
-    storyText = storyText.replace("{verb)}", "jump")
+    storyText = storyText.replace("{verb}", "jump")
+    storyText = storyText.replace("{verb}", "jump")
 }
 
 function draw(){
