@@ -40,6 +40,6 @@ function updateText(){
     console.log("noun="+ textInput.value())
     console.log("verb="+ textInput2.value())
     console.log("adj="+ textInput2.value())
-    console.log("="+ textInput2.value())
-    console.log("verb="+ textInput2.value())
+    console.log("adv="+ textInput2.value())
+    console.log("plc="+ textInput2.value())
 }
