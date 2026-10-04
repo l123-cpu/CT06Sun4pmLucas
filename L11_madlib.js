@@ -31,10 +31,10 @@ function draw(){
     text("enter an adjective", width/2-10, 210);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter an adverb", width/2-10, 210);
+    text("enter an adverb", width/2-10, 260);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter a place", width/2-10, 210);
+    text("enter a place", width/2-10, 310);
 }
 function updateText(){
     console.log("noun="+ textInput.value())
