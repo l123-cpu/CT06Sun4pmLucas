@@ -12,9 +12,9 @@ function setup(){
     textInput4=createInput();
     textInput4.position(width/2,250);
     textInput5=createInput();
-    textInput5.position(width/2,150);
+    textInput5.position(width/2,300);
     button=createButton("Click Here");
-    button.position(width/2,600);
+    button.position(width/2,400);
     button.mousePressed(updateText);
 }
 
