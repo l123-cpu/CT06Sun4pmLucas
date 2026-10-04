@@ -44,5 +44,7 @@ function updateText(){
     console.log("plc="+ textInput5.value())
 }
 function draw(){
-    
+    textSize(16);
+    textAlign(RIGHT,CENTER);
+    text("enter a verb", width/2-10, 160);
 }
