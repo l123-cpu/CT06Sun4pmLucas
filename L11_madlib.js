@@ -3,7 +3,7 @@ let button;
 
 function setup(){
     createCanvas(700,800)
-    tre
+    textinput()
 
 }
 
