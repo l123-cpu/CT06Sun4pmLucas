@@ -5,10 +5,13 @@ function setup(){
     createCanvas(700,800)
     textInput=createInput();
     textInput.position(width/2,100);
-     textInput2=createInput();
+    textInput2=createInput();
     textInput2.position(width/2,150);
     textInput2=createInput();
-    textInput2.position(width/2,150);textInput2=createInput();
+    textInput2.position(width/2,150);
+    textInput2=createInput();
+    textInput2.position(width/2,150);
+    textInput2=createInput();
     textInput2.position(width/2,150);
     button=createButton("Click Here");
     button.position(width/2,600);
