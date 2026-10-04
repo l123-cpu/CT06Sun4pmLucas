@@ -1,4 +1,4 @@
-let textinput;
+let textInput;
 let button;
 let storyText="";
 let storyTemp;
