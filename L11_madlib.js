@@ -29,6 +29,12 @@ function draw(){
     textSize(16);
     textAlign(RIGHT,CENTER);
     text("enter a noun", width/2-10, 210);
+    textSize(16);
+    textAlign(RIGHT,CENTER);
+    text("enter a noun", width/2-10, 210);
+    textSize(16);
+    textAlign(RIGHT,CENTER);
+    text("enter a noun", width/2-10, 210);
 }
 function updateText(){
     console.log("Hello,"+ textInput.value())
