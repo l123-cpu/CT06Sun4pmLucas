@@ -26,5 +26,5 @@ function draw(){
 }
 function updateText(){
     console.log("Hello,"+ textInput.value())
-    console.log("Hello,"+ textInput2.value())
+    console.log("Hi,"+ textInput2.value())
 }
