@@ -13,6 +13,6 @@ function draw(){
      textSize(24);
      textAlign(CENTRE,CENTRE);
      text(usertext,width/2,height/2);
-     
+     text("enter name")
     background("silver")
 }
