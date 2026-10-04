@@ -38,6 +38,8 @@ function draw(){
 }
 function updateText(){
     console.log("noun="+ textInput.value())
-    console.log(""+ textInput2.value())
-
+    console.log("verb="+ textInput2.value())
+textSize(16);
+    textAlign(RIGHT,CENTER);
+    text("enter a noun", width/2-10, 210);
 }
