@@ -17,10 +17,10 @@ function draw(){
     text("enter a noun", width/2-10, 110);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter a noun", width/2-10, 110);
+    text("enter a noun", width/2-10, 150);
     textSize(16);
     textAlign(RIGHT,CENTER);
-    text("enter a noun", width/2-10, 150);
+    text("enter a noun", width/2-10, 2000);
 }
 function updateText(){
     console.log("Hello,"+ textInput.value())
