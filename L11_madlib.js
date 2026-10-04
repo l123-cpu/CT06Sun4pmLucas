@@ -27,6 +27,7 @@ function setup(){
     let temp=random(storyTemp)
     storyTemp=[
         "The {adj} {noun} decided to {verb}{adv} down at{plc}"
+        
     ];
 }
 
