@@ -24,10 +24,10 @@ function setup(){
     button.position(width/2,400);
     button.mousePressed(updateText);
 
-    let temp=random(storyTemp)
+    storyText=random(storyTemp)
     storyTemp=[
         "The {adj} {noun} decided to {verb}{adv} down at{plc}"
-        
+
     ];
 }
 
