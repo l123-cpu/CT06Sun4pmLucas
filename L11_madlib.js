@@ -4,7 +4,8 @@ let storyText;
 let storyTemp;
 let verbInput;
 let adjInput;
-let plcInput
+let plcInput;
+let 
 
 function setup(){
     createCanvas(700,800)
