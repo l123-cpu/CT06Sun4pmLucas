@@ -35,6 +35,8 @@ function draw(){
     textSize(16);
     textAlign(RIGHT,CENTER);
     text("enter a place", width/2-10, 310);
+    textSize(16);
+    textAlign(RIGHT,CENTER);
     text(console.log(TextInput.value()), width/2-10, 450)
 }
 function updateText(){
