@@ -3,7 +3,7 @@ let button;
 let storyText="";
 let storyTemp;
 let verbInput;
-let textInput3;
+let adjInput;
 let textInput4;
 let textInput5;
 function setup(){
