@@ -2,9 +2,9 @@ let textinput;
 let button;
 let storyText="";
 let storyTemp;
-let textInput1;
-let textInput1;
-let textInput1;
+let textInput2;
+let textInput3;
+let textInput3;
 let textInput1;
 let textInput1;
 function setup(){
