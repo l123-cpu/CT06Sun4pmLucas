@@ -8,5 +8,5 @@ function setup(){
     button=createButton("Click Here");
     button.position(width/2,400);
     button.mousePressed(updateText);
-    thing=[]
+    thing=[{x}]
 }
