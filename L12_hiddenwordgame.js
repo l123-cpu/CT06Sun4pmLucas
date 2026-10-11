@@ -1,1 +1,10 @@
-// write your codes here
+let newInput;
+let button
+function setup(){
+    createCanvas(600,400)
+    newInput=createInput();
+    newInput.position(width/2,100);
+    button=createButton("Click Here");
+    button.position(width/2,400);
+    button.mousePressed(updateText);
+}
