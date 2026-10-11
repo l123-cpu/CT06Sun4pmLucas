@@ -9,5 +9,5 @@ function setup(){
     button.position(width/2,400);
     button.mousePressed(updateText);
     thing=["{x}"]
-    thing=thing.replace({x})
+    thing=thing.replace("{x}", nounInput.value())
 }
