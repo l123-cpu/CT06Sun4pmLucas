@@ -1,5 +1,6 @@
 let newInput;
-let button
+let button;
+let thing;
 function setup(){
     createCanvas(600,400)
     newInput=createInput();
