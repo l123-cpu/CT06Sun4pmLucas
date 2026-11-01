@@ -22,7 +22,7 @@ function draw(){
         if (starY>height){
             starY[i]=random(-200,-50);
             starY[i]=random(width);
-            starSpeed[i=random]
+            starSpeed[i=random](2,5);
         }
      }
 }
