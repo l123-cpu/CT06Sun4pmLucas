@@ -29,7 +29,7 @@ function draw(){
         if (keyIsDown(RIGHT_ARROW)){
             playerX+=5;
         }
-        playerX+=constrain(playerX,onabort,width-40);
+        playerX+=constrain(playerX,0,width-40);
         fill(0,255,0)
         }
      }
