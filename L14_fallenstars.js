@@ -1,3 +1,4 @@
 let starX=[];
 let starY=[];
-let starSize=[]
+let starSize=[];
+let numStars=10;
