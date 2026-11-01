@@ -13,4 +13,6 @@ function setup(){
     
     }
 }
-function draw()
+function draw(){
+    nackground
+}
