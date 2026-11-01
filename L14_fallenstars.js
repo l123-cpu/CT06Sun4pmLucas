@@ -23,7 +23,9 @@ function draw(){
             starY[i]=random(-200,-50);
             starY[i]=random(width);
             starSpeed[i=random](2,5);
-        if (keyIsDown(LEFT_ARROW))
+        if (keyIsDown(LEFT_ARROW)){
+            playerX-=5
+        }
         }
      }
 }
