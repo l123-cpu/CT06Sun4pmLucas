@@ -5,5 +5,7 @@ let numStars=10;
 
 function setup(){
     createCanvas(600,400);
-    for (let i=0; i < numStars; i++){}
+    for (let i=0; i < numStars; i++){
+        starX.push(random(width))
+    }
 }
