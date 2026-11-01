@@ -1,1 +1,1 @@
-let starX=
+let starX=[]
