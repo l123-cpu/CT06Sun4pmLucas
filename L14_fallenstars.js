@@ -15,5 +15,6 @@ function setup(){
 }
 function draw(){
     background(0);
-     for (let i=0; i < numStars; i++){}
+     for (let i=0; i < numStars; i++){fill
+     }
 }
