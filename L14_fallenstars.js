@@ -30,7 +30,7 @@ function draw(){
             playerX+=5;
         }
         playerX+=constrain(playerX,onabort,width-40);
-        
+        fill(0,255,0)
         }
      }
 }
