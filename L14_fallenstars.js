@@ -20,7 +20,8 @@ function draw(){
         ellipse(starX[i],starY[i], starSize[i]);
         staryY[i]+= starSpeed[i];
         if (starY>height){
-            starY[i]=random()
+            starY[i]=random(-200,-50)
+            starY[i]
         }
      }
 }
