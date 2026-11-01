@@ -10,7 +10,7 @@ function setup(){
         starSize.push(random(-300,-50));
         starSize.push(random(10,20));
         starSpeed.push(random(1,3));
-        playerX-=5;
+        playerX=width/2;
     }
 }
 function draw(){
