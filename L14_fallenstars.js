@@ -8,6 +8,7 @@ function setup(){
     for (let i=0; i < numStars; i++){
         starX.push(random(width));
         starSize.push(random(-300,-50));
-        starSize.push(random(10))
+        starSize.push(random(10,20));
+        starSpeed.push
     }
 }
