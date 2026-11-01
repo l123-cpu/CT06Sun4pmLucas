@@ -2,7 +2,7 @@ let starX=[];
 let starY=[];
 let starSize=[];
 let numStars=10;
-let player
+let playerX;
 function setup(){
     createCanvas(600,400);
     for (let i=0; i < numStars; i++){
