@@ -26,7 +26,10 @@ function draw(){
         if (keyIsDown(LEFT_ARROW)){
             playerX-=5;
         }
-        if (keyIsDown(RIGHT_ARROW))
+        if (keyIsDown(RIGHT_ARROW)){
+            playerX+=5;
+            
+        }
         }
      }
 }
