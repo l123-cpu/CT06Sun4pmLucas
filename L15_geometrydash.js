@@ -41,4 +41,6 @@ function draw(){
     fill(0,255,0)
     rect(playerX,playerY,playerSize,playerSize);
     fill(255);
+    textSize=20
+    text
 }
