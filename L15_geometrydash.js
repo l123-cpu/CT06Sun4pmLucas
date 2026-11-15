@@ -3,4 +3,4 @@ let circleY=(50,150,250);
 let circleSpeed=[];
 let CircleColour=[];
 let numCircle=3;
-let circlesize=50
+let circlesize=50;
