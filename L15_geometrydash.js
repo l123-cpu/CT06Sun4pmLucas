@@ -42,5 +42,5 @@ function draw(){
     rect(playerX,playerY,playerSize,playerSize);
     fill(255);
     textSize=20
-    text
+    text("press space to jump", )
 }
