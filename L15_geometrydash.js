@@ -31,7 +31,7 @@ function setup(){
     textAlign(CENTER,CENTER)
     background(0)
     for (let i=0;i<3;i++){
-        spikesX.push(width)
+        spikesX.push(width+i*300)
     }
 }
 function draw(){
