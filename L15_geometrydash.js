@@ -17,7 +17,8 @@
 //     circleX= 
 // }
 let playerX=100;
-
+let playerY;
+let playerSz
 function setup(){
     background(0)
 }
