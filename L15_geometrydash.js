@@ -4,3 +4,7 @@ let circleSpeed=[];
 let CircleColour=[];
 let numCircle=3;
 let circlesize=50;
+
+function setup(){
+    createCanvas
+}
