@@ -24,6 +24,6 @@ let isGrounded=false;
 
 function setup(){
     createCanvas(400,600)
-    textAlign(CENTER<CENTER)
+    textAlign(CENTER,CENTER)
     background(0)
 }
