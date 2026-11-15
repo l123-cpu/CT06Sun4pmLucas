@@ -17,4 +17,6 @@
 //     circleX= 
 // }
 
-function setup(){}
+function setup(){
+    background(0)
+}
