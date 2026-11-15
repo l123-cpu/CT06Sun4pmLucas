@@ -29,5 +29,6 @@ function setup(){
 }
 function draw(){
     velocity+=0,8
-    playerY+=velocity
+    playerY+=velocity;
+    
 }
