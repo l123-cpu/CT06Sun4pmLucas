@@ -28,5 +28,6 @@ function setup(){
     background(0)
 }
 function draw(){
+    velocity+=0,8
     
 }
