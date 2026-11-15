@@ -23,5 +23,6 @@ let velocity=0;
 let isGrounded=false;
 
 function setup(){
+    
     background(0)
 }
