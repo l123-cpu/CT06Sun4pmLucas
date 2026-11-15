@@ -16,6 +16,7 @@
 //     circle(75,75)
 //     circleX= 
 // }
+let playerX=100;
 
 function setup(){
     background(0)
