@@ -30,6 +30,9 @@ function setup(){
     createCanvas(400,600)
     textAlign(CENTER,CENTER)
     background(0)
+    for (let i=0;i<3;i++){
+        spikes
+    }
 }
 function draw(){
     velocity+=0,8
