@@ -23,6 +23,7 @@ let velocity=0;
 let isGrounded=false;
 
 function setup(){
+    createCanvas(400,600)
     
     background(0)
 }
