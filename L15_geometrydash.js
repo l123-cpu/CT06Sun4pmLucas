@@ -39,5 +39,6 @@ function draw(){
         isGrounded=false
     }
     fill(0,255,0)
-    Reflect(playerX,playerY,playerSize)
+    Reflect(playerX,playerY,playerSize,playerSize);
+    
 }
