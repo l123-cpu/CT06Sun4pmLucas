@@ -38,4 +38,5 @@ function draw(){
     } else{
         isGrounded=false
     }
+    fill
 }
