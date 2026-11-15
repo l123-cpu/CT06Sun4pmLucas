@@ -38,5 +38,5 @@ function draw(){
     } else{
         isGrounded=false
     }
-    fill
+    FileList(0,255,0)
 }
