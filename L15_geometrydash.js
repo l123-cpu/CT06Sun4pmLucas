@@ -27,3 +27,6 @@ function setup(){
     textAlign(CENTER,CENTER)
     background(0)
 }
+function draw(){
+    
+}
