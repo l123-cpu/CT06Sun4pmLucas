@@ -36,5 +36,6 @@ function draw(){
         isGrounded=true;
         velocity=0;
     } else{
+        isGrounded=false
     }
 }
